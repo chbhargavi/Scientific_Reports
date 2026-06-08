@@ -1,0 +1,8 @@
+Tasks   		Voters       		   "Quality Voters"
+Task1			10000				3333
+Task2			20000				6673			
+Task3			30000				9997		
+Task4			40000				13336			
+Task5		     	50000				16668	
+	     					
+
